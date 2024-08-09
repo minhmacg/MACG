@@ -1,0 +1,12 @@
+/home/minhmacg/Downloads/SDL2-2.30.3/build/CMakeFiles/sdl_headers_copy.dir
+/home/minhmacg/Downloads/SDL2-2.30.3/build/CMakeFiles/SDL2main.dir
+/home/minhmacg/Downloads/SDL2-2.30.3/build/CMakeFiles/SDL2.dir
+/home/minhmacg/Downloads/SDL2-2.30.3/build/CMakeFiles/SDL2-static.dir
+/home/minhmacg/Downloads/SDL2-2.30.3/build/CMakeFiles/SDL2_test.dir
+/home/minhmacg/Downloads/SDL2-2.30.3/build/CMakeFiles/uninstall.dir
+/home/minhmacg/Downloads/SDL2-2.30.3/build/CMakeFiles/edit_cache.dir
+/home/minhmacg/Downloads/SDL2-2.30.3/build/CMakeFiles/rebuild_cache.dir
+/home/minhmacg/Downloads/SDL2-2.30.3/build/CMakeFiles/list_install_components.dir
+/home/minhmacg/Downloads/SDL2-2.30.3/build/CMakeFiles/install.dir
+/home/minhmacg/Downloads/SDL2-2.30.3/build/CMakeFiles/install/local.dir
+/home/minhmacg/Downloads/SDL2-2.30.3/build/CMakeFiles/install/strip.dir
